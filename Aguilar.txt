@@ -1,7 +1,6 @@
+	Este archivo se está editando en la rama test.
 	El róver Curiosity de la NASA ha estado actuando como nuestro detective en Marte 
 este verano boreal e investigando un área que alguna vez estuvo llena de arroyos y lagos 
 en el planeta rojo.
 	El róver aterrizó en Marte hace siete años y, desde entonces, ha enviado miles de imágenes, 
-recorrió 20 kilómetros y subió 367 metros a su hogar actual al lado del Monte Sharp. 
-Esta ubicación se encuentra dentro del Cráter Gale, donde alguna vez se encontraron arroyos y 
-lagos hace miles de millones de años.
+recorrió 20 kilómetros y subió 367 metros a su hogar actual al lado del Monte Sharp.
